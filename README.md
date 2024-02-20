@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on my portfolio using MERN stack that will contain my personal profile, work experience, and completed projects<br><br>I'm currently pursuing a career in Data Science or Front-end Development<br><br>Fun fact about me is that I am a certified Freediver and loves to explore the ocean.
-
+I am a highly motivated individual currently pursuing an advanced diploma in Software Engineering with a focus on **Artificial Intelligence** at Centennial College. With a strong understanding of statistics, foundation in machine learning concepts and techniques, and over 5 years of experience in software engineering, I am well-prepared to contribute to innovative projects. My practical experience in technology entrepreneurship, volunteer work, and commitment to collaborative innovation reflect my adaptability, strong teamwork, and communication skills. I am eager to leverage my expertise to make a meaningful impact in the field of machine learning and AI.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_em.an.der.0/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emander-dangla-23a1b2a9/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@emanderdangla) 
