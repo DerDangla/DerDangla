@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm a graduating student in the advanced diploma program for Software Engineering with a specialization in **Artificial Intelligence** at Centennial College. My grasp of statistics, proficiency in machine learning principles, and more than 5 years of software engineering experience have equipped me to make substantial contributions to pioneering projects. Furthermore, my hands-on involvement in technology entrepreneurship, volunteer initiatives, and dedication to fostering collaborative innovation demonstrate my flexibility, exceptional teamwork, and communication abilities. I am enthusiastic about harnessing my skills and knowledge to effect significant advancements in the realm of machine learning and AI.
 
+Fun fact: I'm a certified Freediver 🌊🔱🧜🏻‍♂️
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emander-dangla-23a1b2a9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_em.an.der.0) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@emanderdangla) 
 
